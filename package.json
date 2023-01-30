@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@apollo/server": "^4.3.0",
-    "dotenv-vault": "^1.17.0",
+    "dotenv-vault": "^1.18.0",
     "graphql": "^16.6.0"
   },
   "devDependencies": {
